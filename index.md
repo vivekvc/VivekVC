@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# Vivek Cherian's Home Page
 
-You can use the [editor on GitHub](https://github.com/vivekvc/VivekVC/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## About
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hi, I am Vivek Cherian,an Enterprise Software Architect and Technologist with an Entrepreneurial drive. 
 
-### Markdown
+My interests include system software, information security, cryptography, decentralized network protocols and programming languages. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I would consider myself a continuous learner of emerging technologies with fairly in-depth technological and market understanding across multiple domains.
 
-```markdown
-Syntax highlighted code block
+I am associated with [The Open Group](https://https://www.opengroup.org/), [Python Software Foundation](https://www.python.org/psf/), [Usenix](https://www.usenix.org), [Assocation of Computer Machinery](https://acm.org), [IEEE](https://www.ieee.org), [Free Software Foundation](https://fsf.org), [Open Source Initiative](https://opensource.org)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Contact
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vivekvc/VivekVC/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Twitter: [@vivekvc](https://www.twitter.com/vivekvc)
+- Email: ch DOT protonmail AT vivekvc
+- IRC: vivek / vivekvc on irc.libera.net
+- Matrix:  vivek / vivekvc
+- Linkedin: [Vivek Cherian](https://www.linkedin.com/in/vivekvc)
+- Launchpad: [vivekvc on Launchpad](https://launchpad.net/~vivekvc)
+- Savannah: [vivekvc on Savannah](https://savannah.gnu.org/users/vivekvc)

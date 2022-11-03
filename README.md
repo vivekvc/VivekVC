@@ -2,7 +2,7 @@
 
 ## About
 
-Hi, I am Vivek VC,an Enterprise Software Architect and Technologist with an Entrepreneurial drive. 
+I am Vivek VC,an enterprise software architect and technologist with an entrepreneurial drive. 
 
 My interests include system software, information security, cryptography, decentralized network protocols and programming languages. 
 

@@ -1,8 +1,8 @@
-# Vivek Cherian's Home Page
+# Vivek VC's Home Page
 
 ## About
 
-Hi, I am Vivek Cherian,an Enterprise Software Architect and Technologist with an Entrepreneurial drive. 
+Hi, I am Vivek VC,an Enterprise Software Architect and Technologist with an Entrepreneurial drive. 
 
 My interests include system software, information security, cryptography, decentralized network protocols and programming languages. 
 

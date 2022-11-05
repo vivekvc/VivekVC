@@ -1,8 +1,8 @@
-# Vivek Cherian's Home Page
+# Vivek VC's Home Page
 
 ## About
 
-Hi, I am Vivek Cherian,an Enterprise Software Architect and Technologist with an Entrepreneurial drive. 
+Hi, I am Vivek VC,an Enterprise Software Architect and Technologist with an Entrepreneurial drive. 
 
 My interests include system software, information security, cryptography, decentralized network protocols and programming languages. 
 
@@ -17,6 +17,6 @@ I am associated with [The Open Group](https://https://www.opengroup.org/), [Pyth
 - Email: ch DOT protonmail AT vivekvc
 - IRC: vivek / vivekvc on irc.libera.net
 - Matrix:  vivek / vivekvc
-- Linkedin: [Vivek Cherian](https://www.linkedin.com/in/vivekvc)
+- Linkedin: [Vivek VC](https://www.linkedin.com/in/vivekvc)
 - Launchpad: [vivekvc on Launchpad](https://launchpad.net/~vivekvc)
 - Savannah: [vivekvc on Savannah](https://savannah.gnu.org/users/vivekvc)

@@ -8,7 +8,7 @@ My interests include system software, information security, cryptography, decent
 
 I would consider myself a continuous learner of emerging technologies with in-depth business, application, data, technology and market understanding across multiple domains.
 
-I am associated with [The Open Group](https://https://www.opengroup.org/), [Python Software Foundation](https://www.python.org/psf/), [Usenix](https://www.usenix.org), [Assocation of Computer Machinery](https://acm.org), [IEEE](https://www.ieee.org), [Free Software Foundation](https://fsf.org), [Open Source Initiative](https://opensource.org)
+I am associated with [The Open Group](https://www.opengroup.org/), [Python Software Foundation](https://www.python.org/psf/), [Usenix](https://www.usenix.org), [Assocation of Computer Machinery](https://acm.org), [IEEE](https://www.ieee.org), [Free Software Foundation](https://fsf.org), [Open Source Initiative](https://opensource.org)
 
 
 ### Contact

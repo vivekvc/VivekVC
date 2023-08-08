@@ -15,7 +15,7 @@ I am associated with [The Open Group](https://www.opengroup.org/), [Python Softw
 
 - Twitter: [@vivekvc](https://www.twitter.com/vivekvc)
 - Email: ch DOT protonmail AT vivekvc
-- IRC: vivek / vivekvc on irc.libera.net
+- IRC: vivek / vivekvc on irc.libera.net and irc.oftc.net
 - Matrix:  vivek / vivekvc
 - Linkedin: [Vivek VC](https://www.linkedin.com/in/vivekvc)
 - Launchpad: [vivekvc on Launchpad](https://launchpad.net/~vivekvc)

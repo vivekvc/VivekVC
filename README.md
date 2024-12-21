@@ -6,7 +6,7 @@ I am Vivek VC,an enterprise software architect and technologist with an entrepre
 
 My interests include system software, information security, cryptography, decentralized network protocols and programming languages. 
 
-I would consider myself a continuous learner of emerging technologies with in-depth business, application, data, technology and market understanding across multiple domains.
+I am a continuous learner of emerging technologies, with in-depth expertise in business, application, data, technology, and market understanding across multiple domains.
 
 I am associated with [The Open Group](https://www.opengroup.org/), [Python Software Foundation](https://www.python.org/psf/), [Usenix](https://www.usenix.org), [Assocation of Computer Machinery](https://acm.org), [IEEE](https://www.ieee.org), [Free Software Foundation](https://fsf.org), [Open Source Initiative](https://opensource.org)
 
